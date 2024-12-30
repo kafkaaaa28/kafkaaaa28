@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kafkaaaa28/kafkafarel/blob/main/demonslayer.jpg" alt="logo" />
+  <img src="https://github.com/kafkaaaa28/kafkaaaa28/blob/main/demonslayer.jpg" alt="logo" />
 </p>
 
 <h1 align="center">Hi 👋, I'm kafka farel</h1>
