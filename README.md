@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kafkaaaa28.github.io/kfkaa/](https://kafkaaaa28.github.io/kfkaa/)
 
-- 💬 Ask me about **react,javascript**
+- 💬 Ask me about **react, javascript**
 
 - 📫 How to reach me **kafkafj1@gmail.com**
 
@@ -29,10 +29,10 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/591px-Nextjs-logo.svg.png?20230404233503)" alt="next" width="40" height="40"/> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042)" alt="tailwindcss" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
   </a>
 </p>
