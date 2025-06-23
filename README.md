@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kafkaaaa28/kafkaaaa28/blob/main/demonslayer.jpg" alt="logo" />
+  <img src="https://i.pinimg.com/736x/a9/03/bd/a903bda27dd259c5063276d7cf183f1f.jpg" alt="logo" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kafka Farel</h1>
